@@ -2,15 +2,14 @@
 
 This repository contains SQL scripts for creating, populating, and querying a Fitness Centre database system.
 
-## 📌 Contents
+## Contents
 - `create_tables.sql` – Table creation scripts  
 - `insert_data.sql` – Sample data insertion  
 - `queries.sql` – SQL reports and analytical queries  
-- ERD/EER diagrams (if included)
 
-## 🛠 Technologies Used
-- MySQL / MariaDB
-- SQL Workbench / phpMyAdmin
+## Technologies Used
+- MySQL
+- SQL Workbench 
 
-## 📄 Project Report
+## Project Report
 Full documentation is available in my portfolio website.
